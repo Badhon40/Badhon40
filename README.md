@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I also play games.......**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/badhon-rani-468250306/ </h3>
 <p align="left">
 </p>
 
