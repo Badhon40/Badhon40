@@ -31,21 +31,21 @@ Hi there! <br>I'm Badhon, a passionate Full Stack Developer specializing in the 
 
 Some Of my Projects Live Links
 
-Project: Book Store                                                                                                                                   Live   |   Frontend  Code |   Backend Code
-Book Store is an interactive e-commerce platform for browsing, purchasing, and managing a diverse collection of books. The platform includes dynamic categories, advanced search and filter options, user authentication, and a secure checkout system.                                                                 
+Project: Book Store  </br>                                                                                                                                 Live   |   Frontend  Code |   Backend Code
+Book Store is an interactive e-commerce platform for browsing, purchasing, and managing a diverse collection of books. The platform includes dynamic categories, advanced search and filter options, user authentication, and a secure checkout system.    </br>                                                             
 •	Seamless Book Browsing: Implemented category-based navigation and live search to enhance user experience.
 •	Secure Payment Processing: Integrated Stripe for smooth and secure transactions.
 •	Inventory Management: Built a robust backend for real-time stock updates and order tracking.
 
-Technologies Used : Redux, React, Node.js , Express, MongoDB, JWT, Stripe, Vercel
+Technologies Used : Redux, React, Node.js , Express, MongoDB, JWT, Stripe, Vercel </br>
 Book Store : (https://book-shop-frontend-weld-tau.vercel.app)
 
-Project: Tutor Link
- Tutor Link is an interactive tutor-student booking platform that streamlines the process of finding and scheduling tutoring sessions. The platform features role-based dashboards for students and tutors, calendar-based availability scheduling, secure authentication, and payment processing.
+Project: Tutor Link </br>
+ Tutor Link is an interactive tutor-student booking platform that streamlines the process of finding and scheduling tutoring sessions. The platform features role-based dashboards for students and tutors, calendar-based availability scheduling, secure authentication, and payment processing. </br>
 •	Optimized Booking Workflow: Implemented real-time calendar integration, allowing students to seamlessly view and book available time slots, reducing booking errors by 30%.  
 •	Role-Based Access Control: Designed separate dashboards for tutors and students with distinct privileges, enhancing user experience and data security.
-•	Secure Data Management: Applied JWT-based authentication and MongoDB for secure user data handling, achieving compliance with best practices for privacy and security.
-Technologies Used : Next.js , Redux, Node.js , Express, MongoDB, JWT, Stripe, Vercel.
+•	Secure Data Management: Applied JWT-based authentication and MongoDB for secure user data handling, achieving compliance with best practices for privacy and security. </br>
+Technologies Used : Next.js , Redux, Node.js , Express, MongoDB, JWT, Stripe, Vercel. </br>
 TutorLink : (https://new-tutor-link-frontend.vercel.app)
 
 ![](https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966)
