@@ -34,7 +34,7 @@ Hi there! <br>I'm Badhon, a passionate Full Stack Developer specializing in the 
 
 Some Of my Projects Live Links
 
-Project: Book Store  </br>                                                                                                                                 Live   |   Frontend  Code |   Backend Code
+Project: Book Store  </br>                                                                                                                          
 Book Store is an interactive e-commerce platform for browsing, purchasing, and managing a diverse collection of books. The platform includes dynamic categories, advanced search and filter options, user authentication, and a secure checkout system.    </br>                                                             
 •	Seamless Book Browsing: Implemented category-based navigation and live search to enhance user experience.
 •	Secure Payment Processing: Integrated Stripe for smooth and secure transactions.
