@@ -3,7 +3,7 @@
 Hi there! <br>I'm Badhon, a passionate Full Stack Developer specializing in the MERN stack with a keen interest in building scalable web applications and interactive user experiences. I'm currently working on TutorLink, a tutor-student booking platform built with Next.js and TypeScript. I’m also exploring advanced concepts like MongoDB Aggregation and crafting polished UI/UX designs for better user engagement.<br><br>💡 What I Do:<br>Full Stack Development: Building efficient and responsive applications using React, Node.js, and Express.<br><br>Front-End Design: Creating interactive, user-friendly interfaces with Next.js and Tailwind CSS.<br><br>Back-End Logic: Structuring databases, handling APIs, and optimizing server performance.<br><br>Web Projects: Currently working on an e-commerce platform and a 10-section landing page with dynamic content.<br><br>Portfolio Building: Designing a professional portfolio showcasing skills in Web Development and Computer Graphics.
 
 
-![Resumee](https://drive.google.com/file/d/1Fz811Nh-SygqFOjd4m07K90Y8pKQQbnR/view?usp=sharing)
+[Resumee](https://drive.google.com/file/d/1Fz811Nh-SygqFOjd4m07K90Y8pKQQbnR/view?usp=sharing)
 
 
  ## 🌐 Socials:
